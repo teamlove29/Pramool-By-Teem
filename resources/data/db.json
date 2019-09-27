@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "email": "test1@gmail.com",
+      "username": "123456",
+      "password": "qwerty"
+    },
+    {
+      "id": 2,
+      "email": "test2@gmail.com",
+      "username": "1234567",
+      "password": "qwerty"
+    },
+    {
+      "id": 3,
+      "email": "test3@gmail.com",
+      "username": "12345678",
+      "password": "qwerty"
+    },
+    {
+      "id": 4,
+      "email": "test4@gmail.com",
+      "username": "123456789",
+      "password": "qwerty"
+    },
+    {
+      "id": 5,
+      "email": "test5@gmail.com",
+      "username": "1234567890",
+      "password": "qwerty"
+    },
+    {
+      "id": 6,
+      "email": "test6@gmail.com",
+      "username": "147258",
+      "password": "qwerty"
+    },
+    {
+      "email": "screenanywhere@gmail.com",
+      "password": "050400050",
+      "passwordCon": "050400050",
+      "id": 7
+    }
+  ],
+  "ETC": []
+}
